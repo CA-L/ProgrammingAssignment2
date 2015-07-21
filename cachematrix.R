@@ -1,4 +1,4 @@
-## These set of functions cater for calculating the inverse of a matrix, and storing
+## This set of functions cater for calculating the inverse of a matrix, and storing
 ## this value for future caching. 
 
 ## This function sets out the four functions belonging to makeCacheMatrix,
